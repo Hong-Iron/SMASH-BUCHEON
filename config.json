@@ -1,0 +1,90 @@
+{
+  "code": "BUCHEON",
+  "title": "SMASH BUCHEON",
+  "school": "부천대",
+  "fullName": "부천대학교",
+  "campusName": "부천대학교",
+  "tagline": "부천대를 부셔 (시험기간 스트레스 해소)",
+  "description": "부천대학교를 3D로 부수고 지구 중심까지 파 내려가는 스트레스 해소 게임",
+  "ogAlt": "폭탄이 터지며 무너지는 부천대학교 3D 화면과 SMASH BUCHEON 제목",
+  "url": "https://hong-iron.github.io/SMASH-BUCHEON/",
+  "antipode": "우루과이 앞바다(남대서양)",
+  "osm": {
+    "type": "way",
+    "id": 468370820
+  },
+  "styles": {},
+  "supportKakao": "https://qr.kakaopay.com/FKcOJKyOy1f405462",
+  "supportToss": "supertoss://send?amount=1000&bank=%ED%86%A0%EC%8A%A4%EB%B1%85%ED%81%AC&accountNo=100123297463&origin=qr",
+  "hub": "https://hong-iron.github.io/SMASH/",
+  "kakaoKey": "ff20552a5a51bc1fe0e0ecdecd217f35",
+  "goatcounter": "https://sassafras.goatcounter.com/count",
+  "supabaseUrl": "https://qohxhopinnwrzrgxrdvj.supabase.co",
+  "supabaseKey": "sb_publishable_9RcuLHwCWIpdzjqDvXMtIA_kicFhQ8g",
+  "exclude": [
+    {
+      "id": "way/886151504",
+      "n": "",
+      "why": "항공사진에 없음 — 지붕 없는 계단식 야외 공연장과 정원이라 이 자리에 서 있는 건물이 없다."
+    },
+    {
+      "at": [
+        37.4899019,
+        126.779848
+      ],
+      "n": "부천대학",
+      "why": "항공사진에 없음 — 동쪽 담장 옆 이 자리에는 나무와 빈 땅만 보이고 건물이 없다."
+    }
+  ],
+  "look": {
+    "밀레니엄관": {
+      "style": "stone",
+      "wall": "#e3e4e2",
+      "glass": "#4f8aa3",
+      "frame": "#b6bcc0"
+    },
+    "한길관": {
+      "style": "stone",
+      "wall": "#e6e1d9",
+      "glass": "#3f6f92",
+      "frame": "#c4c8cc"
+    },
+    "G동(체육관)": {
+      "style": "concrete",
+      "wall": "#c4cbd4",
+      "glass": "#3e4c56",
+      "frame": "#c56a1e"
+    },
+    "세미나관": {
+      "style": "stone",
+      "wall": "#e4dccf",
+      "glass": "#3f6680",
+      "frame": "#cdc4b6"
+    },
+    "예지관": {
+      "style": "stone",
+      "wall": "#e4dccf",
+      "glass": "#3f6680",
+      "frame": "#cdc4b6"
+    },
+    "몽당기념관": {
+      "style": "stone",
+      "wall": "#ebe7e1",
+      "glass": "#1f3d55",
+      "frame": "#c6cacd"
+    },
+    "꿈집": {
+      "style": "dorm",
+      "wall": "#d9d3c7",
+      "glass": "#4a5a62",
+      "frame": "#e4e0d8"
+    },
+    "공학관": {
+      "style": "brick",
+      "wall": "#7f3b2d",
+      "glass": "#4e5c66",
+      "frame": "#b5aea6"
+    }
+  },
+  "lookSource": "학교 공식 캠퍼스맵·건물 안내 사진과 위키미디어 공용 사진의 색만 참고. 사진 픽셀은 쓰지 않음"
+}
