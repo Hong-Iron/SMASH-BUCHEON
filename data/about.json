@@ -1,0 +1,34 @@
+{
+ "region": "경기 부천시 원미구 심곡동",
+ "nameEn": "Bucheon University",
+ "added": "2026-11-01T02:27",
+ "rank": 298,
+ "total": 337,
+ "nearby": [
+  {
+   "code": "STU",
+   "campus": "서울신학대학교",
+   "km": 1.5
+  },
+  {
+   "code": "CUK",
+   "campus": "가톨릭대학교 성심교정",
+   "km": 2.0
+  },
+  {
+   "code": "BUCHEON-SOSA",
+   "campus": "부천대학교 소사캠퍼스",
+   "km": 3.6
+  },
+  {
+   "code": "YUHAN",
+   "campus": "유한대학교",
+   "km": 3.7
+  },
+  {
+   "code": "SKHU",
+   "campus": "성공회대학교",
+   "km": 4.1
+  }
+ ]
+}
